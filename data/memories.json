@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mem_init_1",
+    "category": "Project",
+    "key": "Current Project",
+    "value": "Chinna is actively developing MYRAA, a real-time AI companion with voice, continuous conversation, and persistent memory.",
+    "source": "System Profile",
+    "importance": 10,
+    "createdAt": "2026-09-03T11:18:15.024Z",
+    "updatedAt": "2026-09-03T11:18:15.025Z"
+  },
+  {
+    "id": "mem_init_2",
+    "category": "Relationship",
+    "key": "Primary User",
+    "value": "Chinna is the primary user and creator of MYRAA. They share a close, warm, friendly, and supportive companion relationship.",
+    "source": "System Profile",
+    "importance": 10,
+    "createdAt": "2026-09-03T11:18:15.025Z",
+    "updatedAt": "2026-09-03T11:18:15.025Z"
+  }
+]

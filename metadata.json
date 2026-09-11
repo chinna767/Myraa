@@ -1,0 +1,10 @@
+{
+  "name": "MYRAA",
+  "description": "Real-time AI companion with continuous voice conversation, emotional responsiveness, wake-word activation, and persistent memory for Chinna.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
